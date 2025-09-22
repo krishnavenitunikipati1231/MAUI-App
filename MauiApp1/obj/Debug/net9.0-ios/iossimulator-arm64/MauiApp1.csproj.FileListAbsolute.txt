@@ -1210,9 +1210,6 @@
 /Volumes/Vadi Data/MAUI/MauiApp1/obj/Debug/net9.0-ios/iossimulator-arm64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@3x.png
 /Volumes/Vadi Data/MAUI/MauiApp1/obj/Debug/net9.0-ios/iossimulator-arm64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@2x.png
 /Volumes/Vadi Data/MAUI/MauiApp1/obj/Debug/net9.0-ios/iossimulator-arm64/resizetizer/r/Assets.xcassets/appicon.appiconset/Contents.json
-/Volumes/Vadi Data/MAUI/MauiApp1/obj/Debug/net9.0-ios/iossimulator-arm64/resizetizer/r/dotnet_bot@3x.png
-/Volumes/Vadi Data/MAUI/MauiApp1/obj/Debug/net9.0-ios/iossimulator-arm64/resizetizer/r/dotnet_bot@2x.png
-/Volumes/Vadi Data/MAUI/MauiApp1/obj/Debug/net9.0-ios/iossimulator-arm64/resizetizer/r/dotnet_bot.png
 /Volumes/Vadi Data/MAUI/MauiApp1/obj/Debug/net9.0-ios/iossimulator-arm64/mauiimage.stamp
 /Volumes/Vadi Data/MAUI/MauiApp1/obj/Debug/net9.0-ios/iossimulator-arm64/mauiimage.outputs
 /Volumes/Vadi Data/MAUI/MauiApp1/obj/Debug/net9.0-ios/iossimulator-arm64/resizetizer/f/MauiInfo.plist
@@ -1248,3 +1245,4 @@
 /Volumes/Vadi Data/MAUI/MauiApp1/bin/Debug/net9.0-ios/iossimulator-arm64/Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
 /Volumes/Vadi Data/MAUI/MauiApp1/bin/Debug/net9.0-ios/iossimulator-arm64/Microsoft.VisualStudio.DesignTools.TapContract.dll
 /Volumes/Vadi Data/MAUI/MauiApp1/bin/Debug/net9.0-ios/iossimulator-arm64/Microsoft.VisualStudio.DesignTools.XamlTapContract.dll
+/Volumes/Vadi Data/MAUI/MauiApp1/obj/Debug/net9.0-ios/iossimulator-arm64/MauiApp1.sourcelink.json
